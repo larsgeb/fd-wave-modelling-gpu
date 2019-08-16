@@ -1,4 +1,4 @@
-# forwardGPU
+# fd-wave-modelling-gpu
 Forward 2D elastic wave equation modelling using either OpenMP or OpenACC. Compiles with PGI compiler.
 
 Compilation is fairly easy with CMake. Just make sure to point towards your C++ and C compiler in the CMakeLists.txt. Compilation is done by:
